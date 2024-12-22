@@ -1,2 +1,2 @@
 # PJ-ANDROID
- Projeto Andrpid (curso em video) 
+ Projeto Android (curso em video) 
